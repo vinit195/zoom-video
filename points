@@ -1,0 +1,1 @@
+* app.use(express.static('public')) =>  to serve images, CSS files, and JavaScript files in a directory named public: 
